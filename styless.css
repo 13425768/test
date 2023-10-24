@@ -3,6 +3,13 @@
     color: white;
     padding: 10px;
 }
+div {
+    width: 320px;
+    padding: 10px;
+    border: 5px solid gray;
+    border-radius: 8px;
+    margin: 0;
+  }
 head{
     background-color: aliceblue;
 }
