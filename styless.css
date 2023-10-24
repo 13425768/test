@@ -3,17 +3,12 @@
     color: white;
     padding: 10px;
 }
-.centered {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
 div {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 320px;
-    padding: 10px;
+    width: 1000px;
+    padding: 1000px;
     border: 5px solid gray;
     border-radius: 8px;
     margin: 0;
