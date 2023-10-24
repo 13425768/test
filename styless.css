@@ -5,10 +5,9 @@
 }
 head{
     background-color: aliceblue;
-    background-image: url("photo.jpg");
 }
 body{
-    background-color: brown;
+    background-image: url("photo.jpg");
 }
 h1{
     color: mediumseagreen;
