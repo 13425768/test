@@ -20,7 +20,7 @@ h1{
     color: mediumseagreen;
     text-align: center;
 }
-.immage{
+.centered {
     display: flex;
     justify-content: center;
     align-items: center;
